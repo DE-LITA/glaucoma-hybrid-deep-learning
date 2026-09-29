@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+Pillow
+opencv-python
+torch
+torchvision
+transformers
+timm
+captum
+openpyxl
+jupyter
+ipykernel
